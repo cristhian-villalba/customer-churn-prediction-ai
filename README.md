@@ -17,17 +17,6 @@ Combina el modelado estadístico y Machine Learning en **Python** con la distrib
 
 ---
 
-## 🛠️ Stack Tecnológico Utilizado
-
-| Área | Tecnología / Herramienta | Aplicación en el Proyecto |
-| :--- | :--- | :--- |
-| **Modelado de IA** | Python (Pandas, NumPy, Scikit-Learn) | Extracción, limpieza, ingeniería de variables y entrenamiento del algoritmo *Random Forest*. |
-| **Entorno de Dev** | Google Colab | Ejecución del script analítico y exportación de datos transformados. |
-| **Ingeniería de Datos** | Power Query | Limpieza de datos, ajuste de configuración regional y normalización de tipos de datos. |
-| **Visualización & BI** | Power BI Desktop & DAX | Diseño del cuadro de mando interactivo (modo oscuro), modelado dimensional y segmentación. |
-
----
-
 ## 🎬 Vista Previa e Interactividad
 
 <img width="2032" height="1080" alt="0814(3)" src="https://github.com/user-attachments/assets/86a4cecf-eafa-4e68-8856-d8f6b58f72df" />
@@ -37,3 +26,12 @@ Combina el modelado estadístico y Machine Learning en **Python** con la distrib
 > 🔗 **[Descargar archivo .pbix (Descarga Directa)](https://drive.google.com/uc?export=download&id=1BEEhVxJ-66kv4HFGB6T2rsYvL32pw1bL)**
 
 ---
+
+## 🛠️ Stack Tecnológico Utilizado
+
+| Área | Tecnología / Herramienta | Aplicación en el Proyecto |
+| :--- | :--- | :--- |
+| **Modelado de IA** | Python (Pandas, NumPy, Scikit-Learn) | Extracción, limpieza, ingeniería de variables y entrenamiento del algoritmo *Random Forest*. |
+| **Entorno de Dev** | Google Colab | Ejecución del script analítico y exportación de datos transformados. |
+| **Ingeniería de Datos** | Power Query | Limpieza de datos, ajuste de configuración regional y normalización de tipos de datos. |
+| **Visualización & BI** | Power BI Desktop & DAX | Diseño del cuadro de mando interactivo (modo oscuro), modelado dimensional y segmentación. |
