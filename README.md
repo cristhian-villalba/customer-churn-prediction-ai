@@ -28,15 +28,12 @@ Combina el modelado estadístico y Machine Learning en **Python** con la distrib
 
 ---
 
-## 📂 Archivos del Repositorio
+## 🎬 Vista Previa e Interactividad
 
-* `churn_prediction_model.ipynb`: Notebook de Jupyter con todo el ciclo de vida del dato: análisis exploratorio (EDA), entrenamiento, evaluación de métricas y exportación.
-* `Customer_Attrition_Dashboard.pbix`: Archivo ejecutable de Power BI con el lienzo interactivo, medidas DAX y la interfaz visual final.
+<img width="2032" height="1080" alt="0814(3)" src="https://github.com/user-attachments/assets/86a4cecf-eafa-4e68-8856-d8f6b58f72df" />
+
+> 📥 **Acceso al proyecto completo (.pbix):**  
+> Puedes descargar el archivo ejecutable de Power BI para explorar el modelo de datos y las medidas DAX directamente desde el siguiente enlace:  
+> 🔗 **[Descargar archivo .pbix (Descarga Directa)](https://drive.google.com/uc?export=download&id=1BEEhVxJ-66kv4HFGB6T2rsYvL32pw1bL)**
 
 ---
-
-## 🚀 Cómo Replicar este Proyecto
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/cristhian-villalba/customer-churn-prediction-ai.git](https://github.com/cristhian-villalba/customer-churn-prediction-ai.git)
